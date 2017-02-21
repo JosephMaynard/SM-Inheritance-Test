@@ -1,18 +1,8 @@
-Hi Joseph,
- 
-Thank you for your time earlier today, it was good meeting with you.
- 
-As discussed, please find below the test with the instruction and attached is a zip file containing object.html and object.js.
- 
 Object.js contains an old prototype of the base object used for the javascript application framework that is being developed.
 Your task is to explain how the inheritance model is working, highlight any inefficiencies in the code and propose optimisations to the code.
+
 If you are so inclined, you could also provide a more optimal solution.
  
 Primary functionality:
 - Allow “objects” to inherit functionality of a parent object through use of the “extend” method defined in the base object,
 - Allow sparse inheritance (that is, the child class farewell function is able to call the base farewell function - defined in Object)
- 
-We look forward to seeing your results and if you have any question please contact Peter (cc) on phartshorn@switch.tv.
- 
-Best regards,
-Corentin
